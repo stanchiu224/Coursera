@@ -2,4 +2,4 @@
 Coursera Projects
 
 Finally got git working...
-Testing Git Credential Manager
+Still testing Git Credential Manager
