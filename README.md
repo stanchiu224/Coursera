@@ -1,4 +1,4 @@
 # Coursera
 Coursera Projects
 
-Woot!
+Learning Bash is going well!
