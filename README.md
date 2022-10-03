@@ -26,4 +26,4 @@ of code
 
 Links are displayed using [a link](https://www.lillyyanmusic.com)
 
-![This is an image.](https://en.wikipedia.org/wiki/File:This_Is_America_(single_cover)_2018.jpg#/media/File:This_Is_America_(single_cover)_2018.jpg)
+![This is an image.](https://media.pitchfork.com/photos/5af06a31e9461770252d4b6c/1:1/w_320,c_limit/gambino%20_%20this%20is%20america%20_%20cover.jpg)
